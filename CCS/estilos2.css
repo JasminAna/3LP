@@ -1,0 +1,15 @@
+body {background-color: #ccfff0;}
+.contenedora {width: 1500px;margin: auto;
+border-radius: 15px; background: White;}
+.header{}
+.row{text-align: center}
+
+.col { width: 1000px; display: inline-block;
+vertical-align: top; text-align: justify;
+padding:700px;}
+.col h2{color: #000000;}
+.col { width: 500px; display: inline-block;
+vertical-align: top; text-align: justify;
+padding:20px;}
+.footer {color: black; text-align: center;}
+.titulo { text-align: center;}
